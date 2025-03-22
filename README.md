@@ -8,7 +8,7 @@ Pojeto feito na IDE Visual Studio Code, linguagem:Html, Javascript e CSS [^1].
 Este artigo tem como objetivo agregar valores compartilhando conhecimento e Bootcamps para todos(as) independente de sua área profissional e também para iniciantes na área de TI.
 
 ![Landing-Page Bootc-Bradesco](https://github.com/user-attachments/assets/87c26b34-6e80-446d-a7d4-ca3b5252c9dd)
- ![Page](https://belisnalvacosta.github.io/add-value/)
+https://belisnalvacosta.github.io/add-value/
 
 ## 🤖 Tecnologias Utilizadas
 ## Front-end
