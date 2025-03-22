@@ -3,9 +3,9 @@ Pojeto feito na IDE Visual Studio Code, linguagem:Html, Javascript e CSS [^1].
 <h1>
     <a href="https://www.dio.me/">
      <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
-    <span>Projeto de desafio Dio Campus Expert - Autoconhecimento</span>
+    <span>Projeto de desafio Dio Campus Expert - Agregar Valor</span>
 </h1>
-Este artigo tem como objetivo agregar valores compartilhando conhecimento e Bootcamps para todos(as) independente de sua área profissional e para iniciantes na área de TI.
+Este artigo tem como objetivo agregar valores compartilhando conhecimento e Bootcamps para todos(as) independente de sua área profissional e também para iniciantes na área de TI.
 
 ![Landing-Page Bootc-Bradesco](https://github.com/user-attachments/assets/87c26b34-6e80-446d-a7d4-ca3b5252c9dd)
 
