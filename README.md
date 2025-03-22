@@ -8,6 +8,7 @@ Pojeto feito na IDE Visual Studio Code, linguagem:Html, Javascript e CSS [^1].
 Este artigo tem como objetivo agregar valores compartilhando conhecimento e Bootcamps para todos(as) independente de sua área profissional e também para iniciantes na área de TI.
 
 ![Landing-Page Bootc-Bradesco](https://github.com/user-attachments/assets/87c26b34-6e80-446d-a7d4-ca3b5252c9dd)
+ ![Page](https://belisnalvacosta.github.io/add-value/)
 
 ## 🤖 Tecnologias Utilizadas
 ## Front-end
@@ -35,9 +36,8 @@ Este artigo tem como objetivo agregar valores compartilhando conhecimento e Boot
 </table>
 
 ## Referências
-- [Mentoria DIO Campus Expert 11]()
+- [Mentoria DIO Campus Expert 11]
   
-##
 <div align="center">Feito com 💙 por <a href="https://github.com/BelisnalvaCosta/">Bella</a>.</div>
 
 [^1]: Este é o desafio-3 que faz parte de uma jornada de aprendizado no #DIOCampusExpert11).
