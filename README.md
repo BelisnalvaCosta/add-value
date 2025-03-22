@@ -9,6 +9,7 @@ Este artigo tem como objetivo agregar valores compartilhando conhecimento e Boot
 
 ![Landing-Page Bootc-Bradesco](https://github.com/user-attachments/assets/87c26b34-6e80-446d-a7d4-ca3b5252c9dd)
 https://belisnalvacosta.github.io/add-value/
+outro projeto:   https://belisnalvacosta.github.io/FlipBook-compart-valores/
 
 ## 🤖 Tecnologias Utilizadas
 ## Front-end
